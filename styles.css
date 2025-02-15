@@ -8,7 +8,7 @@
 
 body {
     font-size: 1rem;
-    background-image: url(./assets/purple\ bg2.avif);
+    background-image: url(assets/purple\ bg2.avif);
     background-size: cover;
     background-color: hsl(276, 74%, 22%);
     /* height: 803px; */
